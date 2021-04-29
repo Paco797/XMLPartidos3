@@ -1,0 +1,8 @@
+tirosA,tirosB,tiros_a_puertaA,tiros_a_puertaB,posesionA,posesionB,pasesA,pasesB,precision_de_los_pasesA,precision_de_los_pasesB,faltasA,faltasB,tarjetas_amarillasA,tarjetas_amarillasB,tarjetas_rojasA,tarjetas_rojasB,fueras_de_juegoA,fueras_de_juegoB,cornérsA,cornérsB{
+    display: list-item;
+    list-style: decimal inside;
+    
+}
+equipoB{
+    margin-left: 10px;
+}
